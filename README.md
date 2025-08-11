@@ -11,7 +11,7 @@
 
 ![image-20250811223446811](https://gaorenyusi.oss-cn-chengdu.aliyuncs.com/img/image-20250811223446811.png)
 
-接着对用户名添加$$占位符，对用户密码添加
+接着对用户名添加$$占位符，对用户密码添加%%占位符，
 
 ![image-20250811223533056](https://gaorenyusi.oss-cn-chengdu.aliyuncs.com/img/image-20250811223533056.png)
 
