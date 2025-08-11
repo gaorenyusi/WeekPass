@@ -5,19 +5,19 @@
 
 在burpsuite中添加该插件，
 
-![image-20250811223316363](C:\Users\zhao\AppData\Roaming\Typora\typora-user-images\image-20250811223316363.png)
+![image-20250811223316363](https://gaorenyusi.oss-cn-chengdu.aliyuncs.com/img/image-20250811223316363.png)
 
 将登录请求包发送到该插件，
 
-![image-20250811223446811](C:\Users\zhao\AppData\Roaming\Typora\typora-user-images\image-20250811223446811.png)
+![image-20250811223446811](https://gaorenyusi.oss-cn-chengdu.aliyuncs.com/img/image-20250811223446811.png)
 
 接着对用户名添加$$占位符，对用户密码添加
 
-![image-20250811223533056](C:\Users\zhao\AppData\Roaming\Typora\typora-user-images\image-20250811223533056.png)
+![image-20250811223533056](https://gaorenyusi.oss-cn-chengdu.aliyuncs.com/img/image-20250811223533056.png)
 
 点击开始爆破，支持按结果长度排序，可查看爆破进度，
 
-![image-20250811223805875](C:\Users\zhao\AppData\Roaming\Typora\typora-user-images\image-20250811223805875.png)
+![image-20250811223805875](https://gaorenyusi.oss-cn-chengdu.aliyuncs.com/img/image-20250811223805875.png)
 
 支持常见的md5和base64编码形式。
 
